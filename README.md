@@ -163,6 +163,7 @@ np.mean(predict(res.x,x)==y)
 ![Screenshot (199)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/bbf30107-3710-4a2e-97ba-1df58655b14f)
 
 
+![Screenshot (203)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/5f1594c7-0dd0-46e2-9e33-349135e85ddc)
 
 
 
