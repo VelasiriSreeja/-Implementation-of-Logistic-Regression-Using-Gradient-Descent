@@ -8,10 +8,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.1.Use the standard libraries in python for finding linear regression. 
+1.Use the standard libraries in python for finding linear regression. 
+
 2.Set variables for assigning dataset values. 
+
 3.Import linear regression from sklearn. 
-4.Predict the values of array. 5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn. 6.Obtain the graph.  
+
+4.Predict the values of array. 
+
+5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn. 
+
+6.Obtain the graph.  
 
 ## Program:
 ```
@@ -134,7 +141,10 @@ np.mean(predict(res.x,x)==y)
 ![Screenshot (191)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/0bda247f-142b-430e-9c28-2c1089fcaba6)
 
 
-![Screenshot (192)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/08420945-b442-48f0-ae06-7b735f5754c2)
+![Screenshot (200)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/49499b4c-af17-4834-97f1-9011ff1bbe29)
+
+
+![Screenshot (201)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/59fb1634-37cd-42d2-a868-c7330d838f31)
 
 
 
@@ -151,6 +161,8 @@ np.mean(predict(res.x,x)==y)
 
 
 ![Screenshot (199)](https://github.com/VelasiriSreeja/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118344328/bbf30107-3710-4a2e-97ba-1df58655b14f)
+
+
 
 
 
